@@ -14,7 +14,7 @@ E-commerce websites like Amazon are feature-rich and visually complex. Rebuildin
 - ✅ **Hero Section** replicating Amazon’s banner  
 - ✅ **Shop Section** with product boxes and hover effects  
 - ✅ **Footer Sections** with links and information  
-- ⏳ Pending: Responsiveness for mobile, product detail pages, JavaScript interactivity (login, cart, etc.)  
+- ⏳ Pending: Responsiveness for mobile, product detail pages, JavaScript interactivity (login, cart, etc.) 
 
 ---
 
